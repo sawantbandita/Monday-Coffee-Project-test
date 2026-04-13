@@ -1,58 +1,49 @@
-# Monday Coffee Expansion SQL Project
+# ☕ Coffee Business Expansion Analysis using SQL
 
-![Monday Coffee](./1.png)
+![Coffee Project](./1.png)
 
-## Objective
-The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
+## 📌 Project Overview
+This project analyzes sales data of a coffee business to identify the best cities in India for expansion. The analysis focuses on customer behavior, revenue trends, and market potential using SQL.
 
-## Key Questions
-1. **Coffee Consumers Count**  
-   How many people in each city are estimated to consume coffee, given that 25% of the population does?
+---
 
-2. **Total Revenue from Coffee Sales**  
-   What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+## 🛠️ Tools & Technologies
+- SQL
+- Relational Database Concepts
+- Data Analysis Techniques
 
-3. **Sales Count for Each Product**  
-   How many units of each coffee product have been sold?
+---
 
-4. **Average Sales Amount per City**  
-   What is the average sales amount per customer in each city?
+## 📊 Key Analysis Performed
+- Estimated coffee consumers based on population data  
+- Calculated total revenue and product-wise sales  
+- Identified top-selling products by city  
+- Analyzed customer distribution across cities  
+- Compared average sales and rent per customer  
+- Evaluated monthly sales growth trends  
+- Performed market potential analysis for expansion  
 
-5. **City Population and Coffee Consumers**  
-   Provide a list of cities along with their populations and estimated coffee consumers.
+---
 
-6. **Top Selling Products by City**  
-   What are the top 3 selling products in each city based on sales volume?
+## 📈 Key Insights
+- Pune shows highest revenue with low operational cost  
+- Delhi has the largest customer base and market size  
+- Jaipur offers strong growth potential with low rent  
 
-7. **Customer Segmentation by City**  
-   How many unique customers are there in each city who have purchased coffee products?
+---
 
-8. **Average Sale vs Rent**  
-   Find each city and their average sale per customer and avg rent per customer
+## 🎯 Final Recommendation
+Based on data analysis, the top 3 cities for expansion are:
 
-9. **Monthly Sales Growth**  
-   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+1. **Pune** – High revenue and low rent  
+2. **Delhi** – Large customer base and high demand  
+3. **Jaipur** – Cost-efficient with strong sales potential  
 
-10. **Market Potential Analysis**  
-    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
-    
+---
 
-## Recommendations
-After analyzing the data, the recommended top three cities for new store openings are:
-
-**City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
-
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
-
-**City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
+## 💡 Skills Demonstrated
+- SQL (JOIN, GROUP BY, Aggregations)  
+- Data Analysis & Business Insights  
+- Problem Solving with Real-world Dataset  
 
 ---
