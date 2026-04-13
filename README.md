@@ -1,6 +1,6 @@
 # ☕ Coffee Business Expansion Analysis using SQL
 
-![Coffee Project](./coffee-banner.png)
+![Coffee Project](Coffee business analysis and growth strategy.png)
 
 ## 📌 Project Overview
 This project analyzes sales data of a coffee business to identify the best cities in India for expansion. The analysis focuses on customer behavior, revenue trends, and market potential using SQL.
